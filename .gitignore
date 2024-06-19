@@ -16,3 +16,4 @@ yarn-error.log
 .vscode
 
 err-txs
+.env
